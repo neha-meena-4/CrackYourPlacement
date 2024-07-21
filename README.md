@@ -35,5 +35,5 @@ The DSA Sheet contains a curated set of questions frequently asked in product-ba
 
 | Day | Questions Solved | Link to Solutions |
 |-----|------------------|--------------------|
-| 1   |                | [Day 1 Solutions](./Day-1) |
+| 1   |        7        | [Day 1 Solutions](./Day-1) |
 
