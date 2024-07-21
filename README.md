@@ -3,12 +3,12 @@
 # Challenge Overview
 
 **Duration**: 45-60 days  
-**Daily Commitment**: 4-5 questions per day  
-**Total Questions**: Approximately 270-280  
+**Daily Commitment**: 5-6 questions per day  
+**Total Questions**: 287  
 
 ## How to Participate?
 
-1. **Solve Daily**: Tackle 4-5 questions from the DSA Sheet every day.
+1. **Solve Daily**: Tackle 5-6 questions from the DSA Sheet every day.
 2. **Track Progress**: Update this repository with your solutions and progress daily.
 3. **Build in Public**: Announce your participation on LinkedIn/Twitter/Instagram using the hashtags `#CrackYourInternship` or `#CrackYourPlacement` to stay accountable.
 
