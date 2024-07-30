@@ -33,14 +33,15 @@ The DSA Sheet contains a curated set of questions frequently asked in product-ba
 
 ## Daily Progress
 
-| Day | Questions Solved | Link to Solutions          |
-|-----|------------------|----------------------------|
-| 1   |        7         | [Day 1 Solutions](./Day-1) |
-| 2   |        7         | [Day 2 Solutions](./Day-2) |
-| 3   |        7         | [Day 3 Solutions](./Day-3) |
-| 4   |        7         | [Day 4 Solutions](./Day-4) |
-| 5   |        7         | [Day 5 Solutions](./Day-5) |
-| 6   |        3         | [Day 6 Solutions](./Day-6) |
-| 7   |        6         | [Day 7 Solutions](./Day-7) |
-| 8   |        5         | [Day 8 Solutions](./Day-8) |
-| 9   |        7         | [Day 9 Solutions](./Day-9) |
+| Day   | Questions Solved | Link to Solutions              |
+|-------|------------------|--------------------------------|
+| 1     |        7         | [Day 1 Solutions](./Day-1)     |
+| 2     |        7         | [Day 2 Solutions](./Day-2)     |
+| 3     |        7         | [Day 3 Solutions](./Day-3)     |
+| 4     |        7         | [Day 4 Solutions](./Day-4)     |
+| 5     |        7         | [Day 5 Solutions](./Day-5)     |
+| 6     |        3         | [Day 6 Solutions](./Day-6)     |
+| 7     |        6         | [Day 7 Solutions](./Day-7)     |
+| 8     |        5         | [Day 8 Solutions](./Day-8)     |
+| 9     |        7         | [Day 9 Solutions](./Day-9)     |
+| 10    |        6         | [Day 10 Solutions](./Day-10)   |
