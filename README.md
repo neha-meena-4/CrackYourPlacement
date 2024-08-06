@@ -49,3 +49,4 @@ The DSA Sheet contains a curated set of questions frequently asked in product-ba
 | 12    |        6         | [Day 12 Solutions](./Day-12)   |
 | 13    |        6         | [Day 13 Solutions](./Day-13)   |
 | 16    |        7         | [Day 16 Solutions](./Day-16)   |
+| 17    |        6         | [Day 17 Solutions](./Day-17)   |
